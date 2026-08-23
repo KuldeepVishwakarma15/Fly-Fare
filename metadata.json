@@ -1,0 +1,6 @@
+{
+  "name": "FlyFair India",
+  "description": "AI-powered Indian airfare intelligence platform for travellers and policymakers with real-time price index, surge detection, and fare predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
